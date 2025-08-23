@@ -108,10 +108,6 @@
 		.games{
 			width: 657px;
 		}
-		.center{
-			display: flex;
-			justify-content: center;
-		}
 		.review-container {
 			display: flex;
 			align-items: start;
@@ -130,7 +126,7 @@
 			margin-bottom: 6px;   
 		}
 		.ireview-text img {
-			margin-top: 16px;
+			margin-top: 12px;
 			margin-left: 8px;
-			margin-bottom: -2px;   
+			margin-bottom: -3px;   
 		}
