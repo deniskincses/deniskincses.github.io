@@ -18,10 +18,9 @@
 			background: rgba(0,0,0,0.5);
 			color: #EBFBD7;
 			padding: 5px 0;
-			font-size: 1em;
+			font-size: 16px;
 			margin: 10px -10px;
 		}
-
 		nav {
 		    max-width: 656px;
 		    margin: 30px auto;
@@ -66,25 +65,28 @@
 		footer a {
 			color: #E4F8F6;
 			margin: 0 10px;
-			font-size: 0.9em;
+			font-size: 14px;
 		}
 		h1, h2, h5 {
 			margin: 0;
 		}
 		h1 {
 			color: #ffffff;
-			font-size: 1.5em;
+			font-size: 24px;
 			margin-top: 10px;
 		}
 		h2 {
-			font-size: 1.2em;
+			font-size: 19px;
 			color: #37590d;
 			margin-bottom: 20px;
 		}
 		h3 {
-			font-size: 1.4em;
+			font-size: 22px;
 			color: #000000;
 			margin-bottom: 20px;
+		}
+		h4 {
+			font-size: 15px;
 		}
 		a {
 			color: #40605F;
@@ -92,7 +94,7 @@
 			transition: 0.3s;
 		}
 		a:hover {
-			font-size: 1.05em;
+			font-size: 17px;
 			color: #082623;
 			text-decoration: underline;
 		}	
