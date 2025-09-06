@@ -9,10 +9,13 @@
 			padding: 10px;
         }
 		header {
+			width: 800px;
+			
 			padding: 20px;
 			background-color: #37590d;
 			text-align: center;
-			margin: 0;
+
+			margin: 0 auto;
 		}
 		marquee {
 			background: rgba(0,0,0,0.5);
@@ -22,7 +25,7 @@
 			margin: 10px -10px;
 		}
 		nav {
-		    max-width: 656px;
+		    width: 656px;
 		    margin: 30px auto;
 		    background: rgba(255,255,255);
 		    padding: 20px;
@@ -94,7 +97,7 @@
 			transition: 0.3s;
 		}
 		a:hover {
-			font-size: 17px;
+			font-size: 16px;
 			color: #082623;
 			text-decoration: underline;
 		}	
